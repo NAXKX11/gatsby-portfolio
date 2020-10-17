@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Highlights', // <title>
+  siteTitle: 'Manula Thejan', // <title>
   manifestName: 'Highlights',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,19 +8,19 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
+  heading: 'Manula Thejan',
+  subHeading: 'Web Developer, programmer & Designer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/manula2004',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      icon: 'fa-instagram',
+      name: 'instagram',
+      url: 'https://instagram.com/onlyanubhav',
     },
     {
       icon: 'fa-facebook',
