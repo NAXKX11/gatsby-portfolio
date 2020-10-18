@@ -23,14 +23,14 @@ module.exports = {
       url: 'https://instagram.com/_.manula',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-codepen',
+      name: 'codepen',
+      url: 'https://codepen.com/manula2004',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:thejanmanula@gmail.com',
     },
   ],
 };
